@@ -64,3 +64,6 @@ if (Meteor.isClient) {
     }
   });
 }
+
+// 
+// run command MONGO_URL=mongodb://robwri32:halo3232@ds161495.mlab.com:61495/geomap meteor run ios-device
